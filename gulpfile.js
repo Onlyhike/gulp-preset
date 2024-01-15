@@ -109,4 +109,4 @@ const watchapp = gulp.parallel(build, watchFiles, serve);
 
 exports.watchapp = watchapp;
 
-exports.default = watchapp;
+ exports.default = watchapp;  //означает что команда wathapp вызывается вводом слова gulp
