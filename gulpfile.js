@@ -88,6 +88,7 @@ exports.pug = pug;
 exports.css = css;
 exports.images = images;
 exports.clean = clean;
+exports.serve = serve;
 
 exports.build = build;
 exports.watchapp = watchapp;
